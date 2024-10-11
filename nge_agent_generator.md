@@ -3,6 +3,7 @@ Below are the available functions and inputs:
 - For the function type, it is a utility function that has certain specific functionalities.
 
 ### input and function ###
+```
 {
     "type": "input",
     "input": {
@@ -106,7 +107,6 @@ Below are the available functions and inputs:
         }
     }
 },
-
 {
     "type": "function",
     "function": {
@@ -125,6 +125,7 @@ Below are the available functions and inputs:
         }
     }
 }
+```
 
 ### By combining these inputs and functions, simple applications can be developed. For example, below is a translation application:
 ```json
