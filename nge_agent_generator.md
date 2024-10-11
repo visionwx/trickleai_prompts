@@ -175,7 +175,9 @@ Below are the available functions and inputs:
 
 ### Instruction:
 Your task is to:
+
 Step 1. Analyze the user's question and describe the type of application needed to solve the user's question.
+
 Step 2. Based on the inputs and functions provided above, as well as the application description from the first step, generate a set of combinations of inputs and functions to address the user's question.
 
 Note:
