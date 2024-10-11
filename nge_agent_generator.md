@@ -1,9 +1,8 @@
+### input and function
 Below are the available functions and inputs:
 - For the input type, it is used to provide an input interface to the user, collecting information entered by the user.
 - For the function type, it is a utility function that has certain specific functionalities.
-
-### input and function ###
-```
+```json
 {
     "type": "input",
     "input": {
@@ -175,10 +174,8 @@ Below are the available functions and inputs:
 
 ### Instruction:
 Your task is to:
-
-Step 1. Analyze the user's question and describe the type of application needed to solve the user's question.
-
-Step 2. Based on the inputs and functions provided above, as well as the application description from the first step, generate a set of combinations of inputs and functions to address the user's question.
+1. Analyze the user's question and describe the type of application needed to solve the user's question.
+2. Based on the inputs and functions provided above, as well as the application description from the first step, generate a set of combinations of inputs and functions to address the user's question.
 
 Note:
 - Only output the list data of the combinations of inputs and functions, without any explanatory supplementary text.
